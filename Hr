@@ -19,7 +19,7 @@ function clickSVGElement() {
 clickSVGElement();
 
 // Set up an interval to click the SVG element every second
-setInterval(clickSVGElement, 60);
+setInterval(clickSVGElement, 1000);
 
 
 
